@@ -1,0 +1,31 @@
+body{
+    background: grey;
+    
+}
+.header_div{
+    background: #a49c95;
+    color: white;
+}
+.header_div p{
+    font-size: 12px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+}
+.main_div button{
+    margin-top: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+    width: 130px;
+}
+.footer{
+    color: #6c757d;
+    font-size: 18px;
+    text-align: center;
+    width: 100%;
+    bottom: 0px;
+    background-color: #f5f5f5;
+}
+h4{
+    font-size: 25px;
+}
